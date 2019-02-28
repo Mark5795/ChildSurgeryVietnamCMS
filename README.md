@@ -1,0 +1,2 @@
+# ChildSurgeryVietnamCMS
+Voor het goede doel "Child Surgery Vietnam" was ons, een team van drie personen, de taak om promotie pagina te ontwikkelen voor een actie om donateurs te werven voor het goede doel. Mijn opdracht was om een CMS te ontwikkelen met de programmeer taal PHP, zodat vrijwilligers een account aan kunnen maken en content op de website kunnen toevoegen, wijzigen en/of verwijderen. 
